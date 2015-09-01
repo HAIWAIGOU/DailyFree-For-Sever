@@ -1,3 +1,6 @@
+# Generic files to ignore
+*~
+
 # Java
 *.class
 
